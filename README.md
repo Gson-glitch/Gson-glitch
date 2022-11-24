@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gloryson.
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m a Data Science enthusiast.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me glorysonhorace@gmail.com
 
