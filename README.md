@@ -62,18 +62,18 @@ I am a **Deep Learning Engineer** passionate about building robust, end-to-end M
 
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Gson-glitch">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Gson-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-      alt="Gson-glitch's GitHub Stats" 
-    />
+      <img 
+        src="https://github-readme-stats-sepia-six-20.vercel.app/api?username=Gson-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+        alt="Gson-glitch's GitHub Stats" 
+      />
   </a>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/Gson-glitch">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gson-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
-      alt="Top Languages" 
-    />
+      <img 
+        src="https://github-readme-stats-sepia-six-20.vercel.app/api/top-langs/?username=Gson-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+        alt="Top Languages" 
+      />
   </a>
 
   <!-- GitHub Streak Card -->
