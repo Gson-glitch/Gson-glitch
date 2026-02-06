@@ -11,7 +11,7 @@
   <a href="https://github.com/Gson-glitch">
     <img src="https://img.shields.io/github/followers/Gson-glitch?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="mailto:glorysonhorace@gmail.com">
+  <a href="mailto:gloryson@gson.io">
     <img src="https://img.shields.io/badge/Email-glorysonhorace%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/gloryson-ondanje-466893242/" 
