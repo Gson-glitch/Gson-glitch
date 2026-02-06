@@ -37,7 +37,7 @@ I'm a Machine Learning Engineer with 3+ years of experience in Computer Vision, 
 ### 🌐 Portfolio
 
 <div align="center">
-  <a href="https://www.gson.io">
+  <a href="https://www.gson.io" target="_blank" rel="noopener noreferrer">
     <img src="https://www.gson.io/images/opengraph-image.png" width="100%" alt="Gloryson Ondanje Portfolio" style="border-radius: 10px; border: 1px solid #30363d;" />
   </a>
 </div>
