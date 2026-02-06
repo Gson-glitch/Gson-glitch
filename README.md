@@ -1,11 +1,12 @@
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello%20World&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'%20m%20Gloryson%20(Gson-glitch)&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  <a href="https://www.gson.io">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello%20There%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'%20m%20Gloryson%20Ondanje&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  </a>
 
-  ### 🧠 Deep Learning Engineer | 🤖 Robotics & RL Specialist | 🏗️ MLOps Practitioner
-  
-  *Machine Learning Engineer with 3+ years of experience designing, training, and deploying models.*
+  ### 🧠 Machine Learning Engineer | 🤖 AI Researcher
+   
+  *Machine Learning Engineer with 3+ years of experience in Computer Vision, Natural Language Processing, and Reinforcement Learning.*
 
   <a href="https://github.com/Gson-glitch">
     <img src="https://img.shields.io/github/followers/Gson-glitch?label=Follow&style=social" alt="GitHub Followers" />
@@ -14,10 +15,10 @@
     <img src="https://img.shields.io/badge/Email-glorysonhorace%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/gloryson-ondanje-466893242/" 
-     target="_blank" 
-     rel="noopener noreferrer">
+      target="_blank" 
+      rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" />
+          alt="LinkedIn" />
   </a>
 
   <br />
@@ -27,9 +28,21 @@
 
 ### 🚀 Professional Summary
 
-I am a **Deep Learning Engineer** passionate about building robust, end-to-end ML systems. My expertise lies in **Computer Vision**, **NLP**, and **Reinforcement Learning**. I currently work on advanced solutions involving **LLM-based APIs**, **RAG architectures**, and **drone localization** using state-of-the-art models like YOLOv12 and DINOv2.
+I'm a Machine Learning Engineer with 3+ years of experience in Computer Vision, Natural Language Processing, and Reinforcement Learning. Passionate about building intelligent systems using Python to solve real-world problems across diverse domains. Always learning, always building.
 
-- 🔭 **Current Focus:** Optimization of Deep Learning models, RAG systems with semantic search, and autonomous control systems.
+- 🔭 **Current Focus:** Optimization of Deep Learning models, RAG systems with semantic search, autonomous control systems, and Rust.
+
+---
+
+### 🌐 Portfolio
+
+<div align="center">
+  <a href="https://www.gson.io">
+    <img src="https://www.gson.io/images/opengraph-image.png" width="100%" alt="Gloryson Ondanje Portfolio" style="border-radius: 10px; border: 1px solid #30363d;" />
+  </a>
+</div>
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -37,7 +50,7 @@ I am a **Deep Learning Engineer** passionate about building robust, end-to-end M
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) |
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=llamaindex&logoColor=white) |
 | **Vision & Robotics** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat&logo=gazebo&logoColor=white) |
 | **MLOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) |
@@ -63,7 +76,6 @@ I am a **Deep Learning Engineer** passionate about building robust, end-to-end M
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/Gson-glitch">
       <img 
         src="https://github-readme-stats-sepia-six-20.vercel.app/api?username=Gson-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
@@ -71,7 +83,6 @@ I am a **Deep Learning Engineer** passionate about building robust, end-to-end M
       />
   </a>
 
-  <!-- Top Languages Card -->
   <a href="https://github.com/Gson-glitch">
       <img 
         src="https://github-readme-stats-sepia-six-20.vercel.app/api/top-langs/?username=Gson-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
@@ -79,7 +90,6 @@ I am a **Deep Learning Engineer** passionate about building robust, end-to-end M
       />
   </a>
 
-  <!-- GitHub Streak Card -->
   <a href="https://github.com/Gson-glitch">
     <img 
       src="https://streak-stats.demolab.com?user=Gson-glitch&theme=tokyonight&hide_border=true" 
